@@ -1,2 +1,2 @@
 # lotem_generator
-[DEMO LINK]()
+[DEMO LINK]( https://mishtal-andrii.github.io/lotem_generator/.)
